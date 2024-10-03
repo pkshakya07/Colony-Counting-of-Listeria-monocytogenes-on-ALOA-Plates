@@ -1,5 +1,5 @@
 # Colony-Counting-of-Listeria-monocytogenes-on-ALOA-Plates
-# Project: Colony Counting of Listeria monocytogenes on ALOA Plates
+
 
 This project focuses on automating the counting of *Listeria monocytogenes* colonies on ALOA (Agar Listeria according to Ottaviani and Agosti) plates, which are commonly used for detecting and differentiating *Listeria* species. The goal is to develop a deep learning model using a Convolutional Neural Network (CNN) to accurately detect and count bacterial colonies. The dataset includes high-quality images of ALOA plates with corresponding labels indicating colony locations, which were used to train the model. 
 
