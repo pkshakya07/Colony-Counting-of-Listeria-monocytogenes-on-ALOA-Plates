@@ -6,3 +6,6 @@ This project focuses on automating the counting of *Listeria monocytogenes* colo
 The CNN was trained using Python with libraries such as TensorFlow and Keras. The provided code enables model training and evaluation using labeled images. 
 
 Additionally, a Streamlit web application has been developed to host the trained model, allowing users to upload images of ALOA plates and receive colony counts in real-time. This tool simplifies the counting process, reducing human error and time for microbiological analysis.
+
+
+Credits for this project are given to the German Institute of Food Technologies e. V. The images were captured during my master's thesis at DIL.
